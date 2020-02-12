@@ -1,0 +1,7 @@
+D:\Internship\MentorMateLogo\MentorMateLogo\bin\Debug\MentorMateLogo.exe.config
+D:\Internship\MentorMateLogo\MentorMateLogo\bin\Debug\MentorMateLogo.exe
+D:\Internship\MentorMateLogo\MentorMateLogo\bin\Debug\MentorMateLogo.pdb
+D:\Internship\MentorMateLogo\MentorMateLogo\obj\Debug\MentorMateLogo.csprojAssemblyReference.cache
+D:\Internship\MentorMateLogo\MentorMateLogo\obj\Debug\MentorMateLogo.csproj.CoreCompileInputs.cache
+D:\Internship\MentorMateLogo\MentorMateLogo\obj\Debug\MentorMateLogo.exe
+D:\Internship\MentorMateLogo\MentorMateLogo\obj\Debug\MentorMateLogo.pdb
